@@ -8,5 +8,7 @@ Day 2 : Missed
 
 Day 3 : Missed
 
-Day 4 :
+Day 4 : Missed
+
+Day 5 : watched till 50.25min.
 
