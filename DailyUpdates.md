@@ -24,6 +24,8 @@ Day 4 :
     
 Day 5 : 
     Achivement : i have solve error while installing bcrypt package, solve error of json file, solve error of npm server.
+    Connect Database to project
+    SetUp cloudinary
 
     solution : i installed latest nodejs, cache clean npm, check properly packagejson file, change directory of project.
 
