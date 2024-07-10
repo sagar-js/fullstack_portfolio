@@ -29,5 +29,7 @@ Day 5 :
 
     solution : i installed latest nodejs, cache clean npm, check properly packagejson file, change directory of project.
 
-    
     Error : No Error solve all error.
+
+Day 6 :
+    
