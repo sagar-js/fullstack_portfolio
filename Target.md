@@ -12,5 +12,16 @@ Day 4 : Missed
 
 Day 5 : watched till 50.25min.
 
-Day 6 : 
+Day 6 : watch till 1.00.00 hour.
+
+Day 7 :
+
+Day 8 :
+
+Day 9 :
+
+Day 10 :
+
+Day 11 :
+
 

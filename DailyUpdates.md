@@ -32,4 +32,14 @@ Day 5 :
     Error : No Error solve all error.
 
 Day 6 :
+    Don all the basic requirement
     
+Day 7 :
+
+Day 8 :
+
+Day 9 :
+
+Day 10 :
+
+Day 11 :
